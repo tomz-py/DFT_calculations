@@ -1,0 +1,14 @@
+# All units are a.u.
+
+CELL: 20 20 20
+
+# Spacing between two grid points (in bohr)
+MESH_SPACING: 0.30
+
+
+# Boundary condition
+BC: D D D
+
+# Exchange-correlation type
+EXCHANGE_CORRELATION: GGA_PBE
+
